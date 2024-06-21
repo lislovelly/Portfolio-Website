@@ -26,4 +26,4 @@ Escolhi uma plataforma de hospedagem confiável e publiquei o site. Tenho um pla
 ## Conclusão
 Desenvolver este portfólio foi uma experiência enriquecedora que me ensinou muito sobre design, desenvolvimento web e gestão de projetos. Continuo aprimorando e atualizando o portfólio para refletir minha evolução profissional.
 
-![Image Home Portfolio]([images/interface/Sreenshot.png](https://github.com/lislovelly/Portfolio-Website/blob/main/src/images/interface/Screenshot.png))
+![Screenshot](https://github.com/lislovelly/Portfolio-Website/assets/135989808/e598b715-c303-466b-b065-d9db0d7b6822)
